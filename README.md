@@ -1,6 +1,6 @@
 # Guaranteed UDP
 
-This project, developed as part of the *Advanced Internetworking* course at **KTH Royal Institute of Technology**, focuses on enhancing file transmission capabilities. By implementing Guaranteed UDP, the application can send and receive files without corruption. Utilizing Java multithreading, the application achieves efficient handling of multiple packets in flight.
+This project, developed as part of the *Advanced Internetworking* course at **KTH Royal Institute of Technology**, focuses on enhancing file transmission capabilities. By implementing Guaranteed UDP, the application can send and receive files without corruption. Utilizing Java multithreading, the application achieves efficient handling of multiple packets in-flight.
 
 ### Usage
 - **Receiver:** `java VSRecv [-o] port` (Use `-o` to overwrite the existing file)
